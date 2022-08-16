@@ -1,5 +1,7 @@
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+  
   - 👋 Hi, I’m @JPKP-Kuhn
 - 👀 I’m interested in improve my abilities, learn new things and study more to be successful.
 - 🌱 I’m currently learning telecommunications, and high school, at IFSC (Federal Institute of Santa Catarina), 
