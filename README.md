@@ -1,13 +1,13 @@
 
   ## 👾🐱‍💻 Hey my fellowship!
-    <p>
+    
   - 👋 Hi, I’m @JPKP-Kuhn
 - 👀 I’m interested in improve my abilities, learn new things and study more to be successful.
 - 🌱 I’m currently learning telecommunications, and high school, at IFSC (Federal Institute of Santa Catarina), 
 - JavaScript and Python.
 - 💞️ I’m looking to collaborate on studies.
 - 📫 How to reach me: Just be kind with me.
-  </p>
+ 
   
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
