@@ -3,10 +3,10 @@
     
   - 👋 Hi, I’m @JPKP-Kuhn
 - 👀 I’m interested in improve my abilities, learn new things and study more to be successful.
-- 🌱 I’m currently learning telecommunications, and high school, at IFSC (Federal Institute of Santa Catarina), 
+- 🌱 I’m currently learning telecommunications, in high school, at IFSC (Federal Institute of Santa Catarina), 
 - A lot od JavaScript and Arduino UNO.
 - 💞️ I’m looking to collaborate on studies.
-- 📫 How to reach me: Just be kind with me.
+- 📫 How to reach me: Just be kind with me and help me to improve my studies.
  
   
   <div style="display: inline_block" align="center"><br>
