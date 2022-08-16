@@ -1,13 +1,20 @@
 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-  
+  ## 👾🐱‍💻 Hey my fellowship!
+    <p>
   - 👋 Hi, I’m @JPKP-Kuhn
 - 👀 I’m interested in improve my abilities, learn new things and study more to be successful.
 - 🌱 I’m currently learning telecommunications, and high school, at IFSC (Federal Institute of Santa Catarina), 
 - JavaScript and Python.
 - 💞️ I’m looking to collaborate on studies.
 - 📫 How to reach me: Just be kind with me.
+  </p>
+  
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" src=https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 
 <!---
 JPKP-Kuhn/JPKP-Kuhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
