@@ -1,5 +1,5 @@
 
-  ## 👾🐱‍💻 Hey my fellowship!
+  ## 👾🐱‍💻 Hello my fellowship!
     
   - 👋 Hi, I’m @JPKP-Kuhn
 - 👀 I’m interested in improve my abilities, learn new things and study more to be successful.
