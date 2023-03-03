@@ -15,6 +15,7 @@
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" src=https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
+  <img align="center" src=https://www.python.org/static/community_logos/python-logo.png>
 
 <!---
 JPKP-Kuhn/JPKP-Kuhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
