@@ -2,11 +2,13 @@
   ## 👾🐱‍💻 Hello my fellowship!
     
   - 👋 Hi, I’m @JPKP-Kuhn
-- 👀 I’m interested in improve my abilities, learn new things and study more to be successful.
-- 🌱 I’m currently learning telecommunications, in high school, at IFSC (Federal Institute of Santa Catarina), 
-- A lot of JavaScript and Arduino UNO.
-- 💞️ I’m looking to collaborate on studies.
+- 👀 I’m interested in improve my abilities, learn new things and study more about mathematics, programing and computers.
+- 🌱 I’m currently studying telecommunications, in high school, at IFSC (Federal Institute of Santa Catarina), 
+- 💻 Languages - JavaScript (with Node.js, HTML and CSS), Python, ReacJS and JAVA.
+- 💞️ I’m looking to collaborate on studies and other projects.
 - 📫 How to reach me: Just be kind with me and help me to improve my studies.
+- I'm styduying about 5G and its technologies
+- 🐧 Linux POP OS
  
   
   <div style="display: inline_block" align="center"><br>
