@@ -18,6 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?" style=for-the-badge&logo=node.js&logoColor="white" />
   <img align="center" src="https://img.shields.io/badge/Arduino_IDE-00979D?" style=for-the-badge&logo=arduino&logoColor="white"/>
   <img align="center" alt="Python" height="50" width="50"src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />
+  <img align='center'  height="50" width="50" alt="POP OS" src="https://pop.system76.com/icon-512.png">
 
 <!---
 JPKP-Kuhn/JPKP-Kuhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
