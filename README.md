@@ -1,5 +1,5 @@
 
-  ## Me apresentando!
+  ## That's me!
     
   - 👋 Hi, I’m @JPKP-Kuhn
 - 👀 I’m interested in improve my abilities, learn new things and study more about mathematics, programing and computers.
@@ -7,7 +7,6 @@
 - 💻 Languages - JavaScript (with Node.js, HTML and CSS), Python, ReacJS and JAVA.
 - 💞️ I’m looking to collaborate on studies and other projects.
 - 📫 How to reach me: Just be kind with me and help me to improve my studies.
-- I'm styduying about 5G and its technologies
 - 🐧 Linux POP OS
 
 ##
