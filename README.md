@@ -1,13 +1,4 @@
-
-  ## That's me!
-    
-  - 👋 Hi, I’m @JPKP-Kuhn
-- 👀 I’m interested in improve my abilities, learn new things and study more about mathematics, programing and computers.
-- 🌱 I’m currently studying telecommunications, in high school, at IFSC (Federal Institute of Santa Catarina), 
-- 💻 Languages - JavaScript (with Node.js, HTML and CSS), Python, ReacJS and JAVA.
-- 💞️ I’m looking to collaborate on studies and other projects.
-- 📫 How to reach me: Just be kind with me and help me to improve my studies.
-- 🐧 Linux POP OS
+## Fortune: "Don't get to bragging"
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPKP-Kuhn&show_icons=true&theme=radical)
