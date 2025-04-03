@@ -1,25 +1,30 @@
-##
+## 📊 My Statistics
 ![JPKP_Kuhn's Github Stats](https://github-readme-stats.vercel.app/api?username=JPKP-Kuhn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPKP-Kuhn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- ## Tecnologies
-  <div style="display: inline_block" align="center"><br>
-   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?" style=for-the-badge&logo=node.js&logoColor="white" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style=for-the-badge&logo=arduino&logoColor="white"/>
-   <img align="center" alt="Python" height="50" width="50"src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />
-   <img align='center'  height="50" width="50" alt="POP OS" src="https://pop.system76.com/icon-512.png">
-   <img align='center' height="50" width="50" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
-   <img align='center' height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  </div>
+---
 
-### Link of some projects
-- [Scratch game](https://scratch.mit.edu/projects/1144569747/)
-- [Simulador de plano inclinado](https://playcanv.as/p/RQ0Eu8gG/)
-- [Um projeto simples de codificação de texto, projeto Alura One](https://chalenge-decodificador.vercel.app/)
-<!---
-JPKP-Kuhn/JPKP-Kuhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Programing languages and tools
+<div style="display: inline_block" align="center"><br>
+   <img align="center" alt="JavaScript" height="55" width="55" src="img/JavaScript-logo.png" />
+   <img align="center" alt="HTML" height="55" width="55" src="img/HTML5_logo_and_wordmark.png" />
+   <img align="center" alt="CSS" height="55" width="50" src="img/CSS3_logo_and_wordmark.png" />
+   <img align="center" alt="Python" height="55" width="140" src="img/Python_logo_and_wordmark.png" />
+   <img align="center" alt="Java" height="55" width="42" src="img/Java_programming_language_logo.png" />
+   <img align="center" alt="Arduino" height="55" width="80" src="img/Arduino_Logo.png">
+</div>
+
+---
+
+## 🖥️ Distros Linux used
+<div align="center">
+   <img align="center" alt="Pop!_OS" height="50" src="img/Pop_OS-Logo-nobg.png" />
+   <img align="center" alt="Arch Linux" height="50" src="img/Archlinux-logo-standard-version.png" />
+</div>
+
+---
+
+## 🌟 Some other projects
+- 🎮 [Scratch game](https://scratch.mit.edu/projects/1144569747/)
+- 🧪 [Simulador de plano inclinado](https://playcanv.as/p/RQ0Eu8gG/)
+- 🔐 [Projeto de codificação de texto (Alura One)](https://chalenge-decodificador.vercel.app/)
