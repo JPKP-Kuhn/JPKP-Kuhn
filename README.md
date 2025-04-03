@@ -16,7 +16,7 @@
 
 ---
 
-## 🖥️ Distros Linux used
+## 🖥️ Linux
 <div align="center">
    <img align="center" alt="Pop!_OS" height="50" src="img/Pop_OS-Logo-nobg.png" />
    <img align="center" alt="Arch Linux" height="50" src="img/Archlinux-logo-standard-version.png" />
