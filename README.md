@@ -1,4 +1,6 @@
 ## 📊 My Statistics
+About me [page](https://jpkp-kuhn.github.io/Sobre-mim/) (pt-br)
+
 ![JPKP_Kuhn's Github Stats](https://github-readme-stats.vercel.app/api?username=JPKP-Kuhn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPKP-Kuhn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
