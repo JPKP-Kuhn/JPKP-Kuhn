@@ -6,10 +6,10 @@
 
 ## 🛠 Programing languages and tools
 <div style="display: inline_block" align="center"><br>
-   <img align="center" alt="JavaScript" height="55" width="55" src="img/JavaScript-logo.png" />
+   <img align="center" alt="JavaScript" height="50" width="50" src="img/JavaScript-logo.png" />
    <img align="center" alt="HTML" height="55" width="55" src="img/HTML5_logo_and_wordmark.png" />
    <img align="center" alt="CSS" height="55" width="50" src="img/CSS3_logo_and_wordmark.png" />
-   <img align="center" alt="Python" height="55" width="140" src="img/Python_logo_and_wordmark.png" />
+   <img align="center" alt="Python" height="55" width="55" src="img/Python-Logo.svg" />
    <img align="center" alt="Java" height="55" width="42" src="img/Java_programming_language_logo.png" />
    <img align="center" alt="Arduino" height="55" width="80" src="img/Arduino_Logo.png">
 </div>
