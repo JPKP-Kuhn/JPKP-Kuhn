@@ -1,22 +1,25 @@
 # João Pedro Kuhn
-Estudante de Ciências da Computação na UFSC.
+Computer Science Student at UFSC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPKP-Kuhn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Matérias que tive no meu curso que recomendaria para outros programadores (independente da formação) e que talvez nem todo mundo se importe com elas:
-Matemática Discreta, Circuitos e Técnicas Digitais, Algoritmos e Estrutura de Dados (não apenas o básico de uma linguagem, mas estruturas mais complexas), Cálculo, Probabilidade e Estatística.
+### Courses from my degree that I would recommend to other programmers (regardless of their educational background), even if they might not be everyone's cup of tea:
 
-## Interesses
+Discrete Mathematics (Bernard Kolman), Special Topics in Algorithms (Steven Halim), Data Structures (Sedgewick), Calculus (Spivak), Computer Organization and Design (Patterson and Hennessy), Operating Systems (Tanenbaum), and Computer Networking (Kurose).
 
-- Algoritmos e estruturas de dados
-- Programação competitiva
-- Web3
-- Desenvolvimento de software
+## Interests
+
+- Algorithms and Data Structures
+- Competitive Programming
+- Parallel Computing
+- GPU Programming
+- Software Development
 - Linux
-- Criptografia e Segurança
+- Cryptography and Security
+  
+## Contact
 
-## Contato
-
-- [Sobre mim](https://jpkp-kuhn.github.io/Sobre-mim/)
+- [About me](https://jpkp-kuhn.github.io/Sobre-mim/)
 - Linkedin: [João Pedro Kuhn](https://www.linkedin.com/in/jo%C3%A3o-pedro-kuhn/)
+- email: pedrojoaojpk@gmail.com
